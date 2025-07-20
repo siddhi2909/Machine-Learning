@@ -1,3 +1,5 @@
+#Numpy report
+
 ✔ Through this practice, the fundamental concepts of NumPy have been clearly implemented.
 ✔ You successfully created and manipulated arrays in various dimensions (1D, 2D, multi-dimensional).
 ✔ Array reshaping, flattening, indexing, and slicing were performed, showing understanding of array structure.
